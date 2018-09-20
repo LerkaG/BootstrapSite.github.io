@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
+
+
+@font-face {
+ font-family: 'Lobster';
+ font-style: normal;
+ font-weight: 400;
+ src: local('Lobster'), local('Lobster-Regular'),
+ url(http://bootstraptema.ru/snippets/font/2016/lobster/Lobster.woff) format('woff'),
+ url(http://bootstraptema.ru/snippets/font/2016/lobster/Lobster.ttf) format('truetype');
+}
+#map {
+width: 100%; /* Ширина карты */
+height: 400px; /* Высота карты */ 
+}
+.info-window h3 {
+font-family: 'Lobster'; /* Шрифт заголовка описания */
+color: #694198; /* Цвет заголовка описания */
+}
+.info-content {
+color: #777; /* Цвет контента описания */
+}
+
+body {
+	background-color: #f2f2f2;
+	font-family: "Lato";
+	font-weight: 300;
+	font-size: 16px;
+	color: #555;
+
+	-webkit-font-smoothing: antialiased;
+	-webkit-overflow-scrolling: touch;
+
+	margin-top: 70px;  
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Raleway";
+	font-weight: 300;
+	color: #333
+}
+
+p{
+	line-height: 28px;
+	margin-bottom: 25px; 
+}
+
+.centered {
+	text-align: center;
+}
+
+a {
+color:#f85c37;
+}
+
+a:hover, a:focus {
+	color: #7b7b7b;
+	text-decoration: none;
+	outline: 0;
+}
+
+hr{
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #ccc;
+	margin: 1em 0;
+	padding: 0;
+}
+
+.navbar {
+	font-weight: 800;
+	font-size: 14px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.navbar-inverse {
+	background: #4B088A;
+	border-color: #4B088A;
+}
+
+.navbar-inverse .navbar-nav > .active > a{
+	background-color: #99bbff;
+}
+
+ .navbar-inverse .navbar-brand {
+	color:#ffffe6;
+	font-weight: bolder;
+	font-size: 24px;
+	letter-spacing: 1px;
+}
+.navbar-cont {
+	color: #d8f0f3;
+	font-weight: bolder;
+	font-size: 13px;
+	letter-spacing: 1px;
+}
+.navbar-tel {
+	color: #d8f0f3;
+	font-weight: bolder;
+	font-size: 12px;
+	letter-spacing: 1px;
+}
+
+#headerwrap {
+	/*background: url(../img/1.jpg) no-repeat center top;*/
+	background: #0f3f33
+	margin-top: -10px;
+	padding-top: 20px;
+	text-align: center ;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 500px;
+	width: 100%;
+
+background-size: 100%;
+
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#headerwrap h1 {
+	margin-top: 100px;
+	color: yellow;
+	font-size: 70px;
+	font-weight: 300;
+	letter-spacing: 3px;
+}
+
+.w {
+	padding-top: 35px;
+}
+.w h4 {
+	font-size: 30px;
+}
+
+#dg {
+	background: #e0e0e0;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+
+#bg h4 {
+	font-size: 40px;
+
+}
+
+.tilt {
+
+	-webkit-transition: all 0.5s ease;
+	   -moz-transition: all 0.5s ease;
+	     -o-transition: all 0.5s ease;
+	    -ms-transition: all 0.5s ease;
+	        transition: all 0.5s ease;
+}
+
+.tilt:hover {
+	-webkit-transition: rotate(-10deg);
+	   -moz-transition: rotate(-10deg);
+	     -o-transition: rotate(-10deg);
+	    -ms-transition: rotate(-10deg);
+	        transition: rotate(-10deg);
+}
+
+.wb {
+	padding-top: 35px;
+	margin-bottom: 
+}
+
+
+.wb h4 {
+	font-size: 35px;
+
+}
+
+#f {
+	
+	width: 100%;
+	background: #2d2d2d;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	width: 100%;
+}
+
+#f i {
+	color: #dbdbdb;
+	font-size: 30px;
+	padding: 20px;
+}
+
+#f i:hover {
+	color: #9999ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
